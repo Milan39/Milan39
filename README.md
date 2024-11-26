@@ -11,10 +11,10 @@ You can click the Preview link to take a look at your changes.
 ---
 
 - 💻 **Professional Flutter Developer** with hands-on experience in creating cross-platform applications.
-- 🎓 **Recent Graduate** in Information Technology (BIT) from Informatics College Pokhara.
+- 🎓 **Graduated degree** in Information Technology (BIT) from Informatics College Pokhara.
 - 🌐 **Currently Learning:** Swift and Golang to expand my technical skills.
 - 📩 **Contact Me:** milantilija39@gmail.com
-- Portfolio : https://milan39.github.io/
+- 🖥️ **Portfolio:** https://milan39.github.io/
 
 ---
 
