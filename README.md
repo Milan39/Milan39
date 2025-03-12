@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 - 💻 **Professional Flutter Developer** with hands-on experience in creating cross-platform applications.
 - 🎓 **Graduated degree** in Information Technology (BIT) from Informatics College Pokhara.
-- 🌐 **Currently Learning:** Swift and Golang to expand my technical skills.
 - 📩 **Contact Me:** milantilija39@gmail.com
 - 🖥️ **Portfolio:** https://milan39.github.io/
 
@@ -41,8 +40,6 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
 </p>
 
 ---
