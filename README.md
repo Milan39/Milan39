@@ -150,14 +150,6 @@ You can click the Preview link above to check the changes.
 
 ---
 
-### 📈 Profile Visitor Count
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Milan39&icon=0&color=0" />
-</p>
-
----
-
 ### 💬 Final Words
 
 > "Code with purpose, design with passion, and build with joy."  
